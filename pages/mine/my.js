@@ -3,6 +3,7 @@ Page({
 
   },
 
+  //修改
   onclickus: function () {
     wx.navigateTo({
       url: '../mine/callus/call',
